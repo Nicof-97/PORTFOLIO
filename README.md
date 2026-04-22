@@ -1,4 +1,4 @@
-# 📊 Data Science Portfolio — Nicolás Fernández
+# 📊 Data Analyst Portfolio — Nicolás Fernández
 
 Licenciado en Ciencia Política orientado a Data Science, con foco en análisis cuantitativo, modelado de datos y generación de insights accionables. Experiencia en análisis exploratorio, preparación de datos, modelado y visualización.
 
