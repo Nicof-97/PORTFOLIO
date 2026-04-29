@@ -8,7 +8,7 @@ Este repositorio reúne proyectos prácticos de Data Science aplicados a problem
 
 ## 🧠 Perfil
 
-- 🎯 Orientación principal: **Data Science**
+- 🎯 Orientación principal: **Data Science- Data Analyst**
 - 📈 Interés en modelado predictivo y analítica avanzada
 - 🧪 Enfoque en proyectos reproducibles y metodológicos
 - 🗃 Experiencia en análisis de datos, indicadores y métricas
